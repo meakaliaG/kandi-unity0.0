@@ -1,0 +1,82 @@
+# Blender 4.5.1 LTS MTL File: 'KandiFakeitGameplay2.blend'
+# www.blender.org
+
+newmtl bg-characters-colors-23
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/bg-characters-colors-23.png
+map_d C:/bg-characters-colors-23.png
+
+newmtl bg-characters-colors-24
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/bg-characters-colors-24.png
+map_d C:/bg-characters-colors-24.png
+
+newmtl bg-characters-colors-25
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/bg-characters-colors-25.png
+map_d C:/bg-characters-colors-25.png
+
+newmtl bg-characters-colors-26
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/bg-characters-colors-26.png
+map_d C:/bg-characters-colors-26.png
+
+newmtl bg-characters-colors-27
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/bg-characters-colors-27.png
+map_d C:/bg-characters-colors-27.png
+
+newmtl bg-characters-colors-28
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/bg-characters-colors-28.png
+map_d C:/bg-characters-colors-28.png
+
+newmtl pink1
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl pink4
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
